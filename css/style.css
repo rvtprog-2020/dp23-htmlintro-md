@@ -1,0 +1,23 @@
+p {
+    color:green;
+
+} 
+
+.article {
+   color:greenyellow;
+}
+
+#first {
+   color:indianred;
+}
+
+.container {
+    background-color: bisque;
+    height: 100px;
+    width: 500px;
+    padding: 10px;
+}
+
+.container .article{
+    color: gold;
+}
